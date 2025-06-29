@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, University of Delaware, 2026 (expected)
+* B.S. in Biomedical and Health Engineering, North Carolina State University and University of North Carolina at Chapel Hill, 2020
 
 Work experience
 ======
@@ -34,12 +33,25 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * Biomechanics data processing: Visual 3D
+  * Motion capture: Qualysis; VICON Nexus
+  * Programming languages: MATLAB; Python; Visual 3D pipelines
+  * Statistical analysis: R; JMP; Minitab
+* Motion Capture
+  * Retroreflective marker placement
+  * Data collection and processing
+  * Inverse dynamics
+* Electromyography (EMG)
+  * Sensor placement and data collection
+  * Filtering
+  * Normalization
+  * Frequency analysis
+  * Signal integration
+* Hardware
+  * Motion capture camera calibration
+  * Instrumented split-belt treadmill
+  * In-ground force plates
 
 Publications
 ======
