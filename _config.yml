@@ -22,7 +22,7 @@ repository               : "JacobSkigen/JacobSkigen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JacobSkigen_headshot.jpeg"
+  avatar           : "JacobSkigen_headshot.png"
   name             : "Jacob (Jake) Skigen"
   pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
