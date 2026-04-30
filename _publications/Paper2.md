@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Passive-Dynamic Ankle-Foot Orthoses Change Post-Stroke Lower Extremity Constituent Work Profile"
 collection: publications
 category: manuscripts
 permalink: /publication/Ppaer2
