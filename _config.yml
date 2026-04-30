@@ -85,6 +85,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Talk Category - The following the list of publication categories and their headings
+talk_category:
+  national:
+    title: 'National Conferences'
+  university:
+    title: 'Within-University'
+  other:
+    title: 'other'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
