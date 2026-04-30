@@ -1,6 +1,7 @@
 ---
 title: "2022 North American Congress on Biomechanics"
 collection: talks
+category: national
 type: "Talk, Podium presentation"
 permalink: /talks/2022_NACOB
 venue: "Rogers Centre Ottawa"
