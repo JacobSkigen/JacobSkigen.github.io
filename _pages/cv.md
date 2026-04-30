@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedical Engineering
-  * University of Delaware, Aug 2020 - May 2026
-  * Thesis: Demystifying the Effects of Passive-Dynamic Ankle-Foot Orthoses on the Post-Stroke Lower-Limb System
-* B.S. in Biomedical and Health Engineering
-  * North Carolina State University and University of North Carolina at Chapel Hill, Aug 2016 - May 2020
+### Ph.D in Biomedical Engineering ###
+* University of Delaware (Aug 2020 - May 2026)
+* Thesis: Demystifying the Effects of Passive-Dynamic Ankle-Foot Orthoses on the Post-Stroke Lower-Limb System
+### B.S. in Biomedical and Health Engineering ###
+* North Carolina State University and University of North Carolina at Chapel Hill (Aug 2016 - May 2020)
 
 Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: Elisa Arch, PhD
+### Graduate Student Researcher (Jan 2021 - Present) ###
+* Orthotics & Prosthetics for Enhanced Mobility Laboratory, Newark, DE, USA
+* Supervisor: Elisa Arch, PhD
 
 * Fall 2015: Research Assistant
   * GitHub University
