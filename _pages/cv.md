@@ -11,20 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedical Engineering, University of Delaware, 2026 (expected)
-* B.S. in Biomedical and Health Engineering, North Carolina State University and University of North Carolina at Chapel Hill, 2020
+* Ph.D in Biomedical Engineering
+  * University of Delaware, Aug 2020 - May 2026
+  * Thesis: Demystifying the Effects of Passive-Dynamic Ankle-Foot Orthoses on the Post-Stroke Lower-Limb System
+* B.S. in Biomedical and Health Engineering
+  * North Carolina State University and University of North Carolina at Chapel Hill, Aug 2016 - May 2020
 
-Work experience
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Elisa Arch, PhD
 
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Helen (He) Huang, PhD
 
 * Summer 2015: Research Assistant
   * GitHub University
@@ -48,10 +51,18 @@ Skills
   * Normalization
   * Frequency analysis
   * Signal integration
+* Statistical Analysis
+  * R
+  * JMP
+  * Minitab
 * Hardware
   * Motion capture camera calibration
   * Instrumented split-belt treadmill
   * In-ground force plates
+* Communication
+  * Manuscript and grant writing
+  * Technical lab reports
+  * Presentations for scientific and non-scientific audiences
 
 Publications
 ======
