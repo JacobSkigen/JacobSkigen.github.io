@@ -14,6 +14,7 @@ Education
 ### Ph.D. in Biomedical Engineering ###
 * University of Delaware (Aug 2020 - May 2026)
 * Thesis: Demystifying the Effects of Passive-Dynamic Ankle-Foot Orthoses on the Post-Stroke Lower-Limb System
+
 ### B.S. in Biomedical and Health Engineering ###
 * North Carolina State University and University of North Carolina at Chapel Hill (Aug 2016 - May 2020)
 * Honors: Graduated Magna cum Laude, NC State University Honors Program, Dean’s List (multiple semesters)
