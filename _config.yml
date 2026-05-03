@@ -25,7 +25,7 @@ author:
   avatar           : "JacobSkigen_headshot.png"
   name             : "Jacob (Jake) Skigen, Ph.D."
   pronouns         : "he/him"
-  bio              : "Recent PhD graduate focused on gait rehabilitation and teaching"
+  # bio              : "Recent PhD graduate focused on gait rehabilitation and teaching"
   location         : "Newark, Delaware"
   employer         : "University of Delaware"
   uri              : # URL
