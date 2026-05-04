@@ -3,7 +3,7 @@ title: "Passive-Dynamic Ankle-Foot Orthoses Change Post-Stroke Lower Extremity C
 collection: publications
 category: manuscripts
 permalink: /publication/Ppaer2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Expanding on prior work to investigate the factors driving changes in post-stroke gait energetics with a passive-dynamic ankle-foot orthosis.'
 date: 2024-11-04
 venue: 'Journal of Biomechanics'
 paperurl: 'http://JacobSkigen.github.io/files/Paper2.pdf'
