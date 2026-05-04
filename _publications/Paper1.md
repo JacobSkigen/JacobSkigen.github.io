@@ -3,7 +3,7 @@ title: "Customized Passive-Dynamic Ankle–Foot Orthoses Can Improve Walking Eco
 collection: publications
 category: manuscripts
 permalink: /publication/Paper1
-excerpt: 'Building on prior work to investigate the factors driving changes in post-stroke gait energetics with a passive-dynamic ankle-foot orthosis.'
+excerpt: 'Comparing post-stroke gait with a highly personalized ankle-foot orthosis to walking without an orthosis and walking with a clinically prescribed orthosis.'
 date: 2024-07-29
 venue: 'Journal of NeuroEngineering and Rehabilitation'
 paperurl: 'http://JacobSkigen.github.io/files/Paper1.pdf'
