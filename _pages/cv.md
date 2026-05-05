@@ -41,14 +41,12 @@ Supervisor: Dr. Helen (He) Huang, PhD
   
 Skills / Training
 ======
-| | |  
-| --- | --- |  
-| **Software** | Visual 3D; Qualysis; VICON Nexus; MATLAB & Simulink; Python; Multisim; LabVIEW; SolidWorks |  
-| **Motion Capture** | Retroreflective marker placement; data collection and processing; inverse dynamics |  
-| **Electromyography** | Sensor placement and data collection; filtering; normalization; frequency analysis; signal integration |  
-| **Statistical analysis** | R; JMP; Minitab |  
-| **Hardware** | Motion capture camera calibration; instrumented split-belt treadmill; in-ground force plates |  
-| **Communication** | Manuscript and grant writing; technical lab reports; presentations for scientific and non-scientific audiences |  
+**Software** Visual 3D; Qualysis; VICON Nexus; MATLAB & Simulink; Python; Multisim; LabVIEW; SolidWorks
+**Motion Capture** Retroreflective marker placement; data collection and processing; inverse dynamics
+**Electromyography** Sensor placement and data collection; filtering; normalization; frequency analysis; signal integration
+**Statistical analysis** R; JMP; Minitab
+**Hardware** Motion capture camera calibration; instrumented split-belt treadmill; in-ground force plates
+**Communication** Manuscript and grant writing; technical lab reports; presentations for scientific and non-scientific audiences
 
 Publications
 ======
